@@ -24,4 +24,4 @@ Tune the sliders – opacity, blur strength, and scale to taste
 
 Optional: Flip source direction or disable overlay with a button
 
-I prepared a virustotal link to prove it's not bullshit but I encourage you to do your own regardless.
+
